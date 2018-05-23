@@ -1,4 +1,4 @@
-/* operation between diffrent types) */
+/* operation between diffrent types */
 
 #include <iostream>
 using namespace std;

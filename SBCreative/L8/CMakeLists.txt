@@ -19,12 +19,6 @@ project(sample9 CXX)
 add_executable(sample9 sample9.cpp)
 project(sample10 CXX)
 add_executable(sample10 sample10.cpp)
-#project(sample11 CXX)
-#add_executable(sample11 sample11.cpp)
-#project(sample12 CXX)
-#add_executable(sample12 sample12.cpp)
-#project(sample13 CXX)
-#add_executable(sample13 sample13.cpp)
 
 set(CMAKE_BUILD_TYPE Release)
 

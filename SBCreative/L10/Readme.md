@@ -28,7 +28,7 @@ Keywords : 記憶寿命(Storage Life), 記憶クラス指定子(Storage Class Id
 This source code explains about memories dynamically allocated.
 Memories dynamically allocated are attributed to saving the memory area.
 
-Keywords : 動的メモリ確保(Memories dynamically allocated), new指定子(New Identifier)
+Keywords : 動的メモリ確保(Memories dynamically allocated), new演算子(New Operator)
 
 
 ## sample4.cpp 

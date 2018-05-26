@@ -1,4 +1,4 @@
-# Making large programs
+# User-defined type
 
 ## sample1.cpp 
 

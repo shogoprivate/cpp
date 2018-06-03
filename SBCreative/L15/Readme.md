@@ -1,4 +1,4 @@
-# Inheritance
+# Various topics related to "class"
 
 ## test1.cpp 
 

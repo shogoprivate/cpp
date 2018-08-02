@@ -1,7 +1,5 @@
 # 配列
 
-※ sample6.cppは省略
-
 ## sample1.cpp
 
 配列要素の値を取り出す

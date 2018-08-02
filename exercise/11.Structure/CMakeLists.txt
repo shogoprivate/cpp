@@ -7,8 +7,8 @@ project(sample2 CXX)
 project(sample3 CXX)
 project(sample4 CXX)
 project(sample5 CXX)
-project(extra1 CXX)
-project(extra2 CXX)
+project(sample6 CXX)
+project(sample7 CXX)
 
 ## 実行プログラム名とソースファイル名
 add_executable(sample1 sample1.cpp)
@@ -16,10 +16,8 @@ add_executable(sample2 sample2.cpp)
 add_executable(sample3 sample3.cpp)
 add_executable(sample4 sample4.cpp)
 add_executable(sample5 sample5.cpp)
-add_subdirectory(src)
-target_link_libraries(sample5 mymaxfunc)
-add_executable(extra1 extra1.cpp)
-add_executable(extra2 extra2.cpp)
+add_executable(sample6 sample6.cpp)
+add_executable(sample7 sample7.cpp)
 
 ## ビルドタイプ
 set(CMAKE_BUILD_TYPE Release)
